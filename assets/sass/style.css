@@ -1577,6 +1577,15 @@ kbd {
   .ak-cursor-sm {
     display: none !important;
   }
+  .mini-title {
+    display: none;
+}
+.hero-main-title{
+  font-size:medium;
+}
+.hero-main-title-1{
+  font-size:medium;
+}
 }
 @media screen and (max-width: 575px) {
   .ak-image-layer.ak-style1 {
