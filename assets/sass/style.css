@@ -1581,10 +1581,10 @@ kbd {
     display: none;
 }
 .hero-main-title{
-  font-size:medium;
+  font-size:larger;
 }
 .hero-main-title-1{
-  font-size:medium;
+  font-size:larger;
 }
 }
 @media screen and (max-width: 575px) {
