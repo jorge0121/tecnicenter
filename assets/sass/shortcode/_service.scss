@@ -32,6 +32,7 @@
     text-align: center;
     font-size: 16px;
     height: 100%;
+    text-align: justify;
     .service-info {
       .title {
         margin-top: 15px;
@@ -43,7 +44,9 @@
 
 .services-content {
   max-width: 500px;
+  
   .ak-section-subtitle {
+    
     padding-right: 50px;
   }
 }

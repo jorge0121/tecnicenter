@@ -2062,6 +2062,7 @@ kbd {
 .ak-site-branding {
   display: inline-block;
   max-width: 180px;
+ 
 }
 
 .ak-site_header {
@@ -2104,10 +2105,13 @@ kbd {
   display: flex;
   height: 0%;
   align-items: center;
-  /* .logo {
-
-  } */
+   
 }
+.logo {
+  width: 100px; /* Ajusta este valor según el tamaño deseado */
+  height: auto; /* Mantiene la proporción del logo */
+  padding: 7px;
+} 
 .ak-site_header.ak-style1 .header-top .wrapper .center-log {
   margin-right: 88px;
 }
@@ -2765,6 +2769,7 @@ kbd {
 }
 .footer.style-1 .footer-content .footer-info .desp {
   font-size: 18px;
+  text-align: justify;
 }
 .footer.style-1 .footer-content .footer-info .phone {
   color: #fff;

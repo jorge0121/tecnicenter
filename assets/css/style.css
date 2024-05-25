@@ -1195,6 +1195,7 @@ kbd {
 
 .ak-section-heading.ak-style-1 {
   position: relative;
+
 }
 .ak-section-heading.ak-style-1 .background-text {
   z-index: 9;
@@ -1228,6 +1229,7 @@ kbd {
   line-height: 24px;
   position: relative;
   z-index: 10;
+ 
 }
 .ak-section-heading.ak-style-1 .ak-section-title {
   font-size: 48px;
@@ -3284,6 +3286,7 @@ kbd {
 }
 .services-content .ak-section-subtitle {
   padding-right: 50px;
+  text-align: justify;
 }
 
 @media screen and (max-width: 1199px) {
