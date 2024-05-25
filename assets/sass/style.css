@@ -2108,8 +2108,8 @@ kbd {
    
 }
 .logo {
-  width: 100px; /* Ajusta este valor según el tamaño deseado */
-  height: auto; /* Mantiene la proporción del logo */
+  width: 80px; /* Ajusta este valor según el tamaño deseado */
+  /* Mantiene la proporción del logo */
   padding: 7px;
 } 
 .ak-site_header.ak-style1 .header-top .wrapper .center-log {
